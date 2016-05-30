@@ -1,9 +1,7 @@
-ChristmasCard
-=============
+# ChristmasCard
 
-Merry Christmas folks!
+## Merry Christmas folks!
 
-Contributors
-
-Aby   :abybenrajan@gmail.com
-Sujay :post.conversation@gmail.com
+##Contributors
++ Aby   : abybenrajan@gmail.com
++ Sujay : post.conversation@gmail.com
